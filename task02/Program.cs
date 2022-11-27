@@ -1,142 +1,122 @@
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
+using task01;
+using Newtonsoft.Json;
 
-namespace Lab_09_2{
-    class Program{
+namespace task02
+{
+    class Program
+    {
+        public static string? ApiKey;
         
-        static string API_KEY = "Make an \"API_KEY\" file with your key in it";
+        public static async Task<WeatherOBJ> GetWeather(City city)
+        {
+            var url = $"https://api.openweathermap.org/data/2.5/weather";
+            var parameters = $"?lat={city.Latitude}&lon={city.Longitude}&appid={ApiKey}";
 
-        public struct City{
+            HttpClient client = new HttpClient();
+            client.BaseAddress = new Uri(url);
 
-            public string Name {get; set;}
-            public double Latitude {get; set;}
-            public double Longitude {get; set;}
+            HttpResponseMessage? response = new();
 
+            Console.WriteLine("Fetching data...");
+            try
+            {
+                response = await client.GetAsync(parameters);
+            }
+            catch (System.Net.Http.HttpRequestException)
+            {
+                Console.WriteLine($"{city.Name} : Connection troubles, try again");
+            }
+
+            WeatherOBJ result = new WeatherOBJ();
+            if (response.IsSuccessStatusCode)
+            {
+                var textRes = await response.Content.ReadAsStringAsync();
+                result = JsonConvert.DeserializeObject<task01.WeatherOBJ>(textRes);
+            }
+
+            // Если смогли достать хоть какие-то данные, считаем среднее. Иначе - возвращаем null.
+            Console.WriteLine($"In {city.Name} now {result.Temp:F1} degrees : {result.Description}");
+            return result;
         }
-
-        public struct Weather{
-            public string Country {get; set;}
-            public string Name {get; set;}
-            public double Temp {get; set;}
-            public string Description {get; set;}
-        }
-
-        public class API_call{
-            public static async Task<Weather> GetWeather(City city){
-                
-                var url = $"https://api.openweathermap.org/data/2.5/weather";
-                var parameters = $"?lat={city.Latitude}&lon={city.Longitude}&appid={API_KEY}";
-
-                HttpClient client = new HttpClient();
-                client.BaseAddress = new Uri(url);
-
-                // Здесь мы делаем запрос, пока не получим ответ
-                HttpResponseMessage? response = new();
-                
-                Console.WriteLine("Fetching data...");
-                try{
-                    response = await client.GetAsync(parameters);
-                }
-                catch(System.Net.Http.HttpRequestException){
-                    Console.WriteLine($"{city.Name} : Connection troubles, try again");
-                }
-                
-                // Считываем ответ как стрингу
-                Weather result = new();
-                
-                if (response.IsSuccessStatusCode){
-                    string rawResponse = await response.Content.ReadAsStringAsync();
-                    //Console.WriteLine(jsonString);
-                    
-                    Regex rx = new Regex("(?<=\"country\":\")[^\"]+(?=\")");
-                    result.Country = rx.Match(rawResponse).ToString();
-                    rx = new Regex("(?<=\"name\":\")[^\"]+(?=\")");
-                    result.Name = rx.Match(rawResponse).ToString();
-                    rx = new Regex("(?<=\"temp\":)[^\"]+(?=,)");
-                    result.Temp = Math.Round(Convert.ToDouble(rx.Match(rawResponse).ToString())-273);
-                    rx = new Regex("(?<=\"description\":\")[^\"]+(?=\")");
-                    result.Description = rx.Match(rawResponse).ToString();
-                    //Console.WriteLine($"\n{result.Country}, {result.Name}: {result.Temp}, {result.Description}\n");
-
-                }
-
-                // Если смогли достать хоть какие-то данные, считаем среднее. Иначе - возвращаем null.
-                Console.WriteLine($"{city.Name} : {result.Temp} degrees, {result.Description}");
-                return result;
-
-            } 
-        }
-
-
-        public static City[] options = new City[0];
-        static bool resume = true;
-        public static void ConsoleRun(){
-            string input = Console.ReadLine();
-
-            switch (input){
-                case("quit"):{
-                    resume = false;
+        private static City[] _arrayOfCities = Array.Empty<City>();
+        
+        public static void ConsoleRun()
+        {
+            var input = Console.ReadLine();
+            var notExit = true;
+            switch (input)
+            {
+                case ("quit"):
+                {
+                    notExit = false;
                     break;
                 }
-                case("options"):{
-                    foreach (City entry in options){
+                case ("options"):
+                {
+                    foreach (City entry in _arrayOfCities)
+                    {
                         Console.WriteLine($"> {entry.Name}");
                     }
+
                     break;
                 }
-                default :{
-                    try{
-                        City newCity = options.Where(data => data.Name == input).First(); 
-                        API_call.GetWeather(newCity);
+                default:
+                {
+                    try
+                    {
+                        City newCity = _arrayOfCities.Where(data => data.Name == input).First();
+                        GetWeather(newCity).GetAwaiter();
                     }
-                    catch{
+                    catch
+                    {
                         Console.WriteLine($"No \"{input}\" city found");
                     }
+
                     break;
                 }
             }
 
-            if (resume) ConsoleRun();
-
+            if (notExit) ConsoleRun();
         }
-        
-        static void Main(){
 
-            // Пытаемся считать ключ из файла
-            try{
-                API_KEY = File.ReadAllText("API_KEY");
+        static void Main()
+        {
+            try
+            {
+                ApiKey = File.ReadAllText("../../../API_KEY.txt");
             }
-            catch (FileNotFoundException){
-                Console.WriteLine("!!! No API key found !!! Calls will receive empty data");
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine("\n\nCreate API_KEY.txt file in project's directory\n\n");
             }
 
-            // Считываем данные из файла
-            using (FileStream input = File.Open("city.txt", FileMode.Open)){
+            // Считываем базу городов
+            using (FileStream input = File.Open("../../../city.txt", FileMode.Open))
+            {
                 StreamReader reader = new(input);
 
-                string[] line;
                 City entry = new();
 
-                while (!reader.EndOfStream){
-
-                    line = reader.ReadLine().Replace("\t"," ").Split(" ");
+                while (!reader.EndOfStream)
+                {
+                    var line = reader.ReadLine()?.Replace("\t", " ").Split(" ");
                     entry.Name = line[0];
-                    for (int i = 1 ; i < line.Length - 2 ; i ++) entry.Name += $" {line[i]}";
-                    entry.Latitude = Convert.ToDouble(line[line.Length - 2].Replace(",",""));
+                    for (int i = 1; i < line.Length - 2; i++) entry.Name += $" {line[i]}";
+                    entry.Latitude = Convert.ToDouble(line[line.Length - 2].Replace(",", ""));
                     entry.Longitude = Convert.ToDouble(line[line.Length - 1]);
-                    options = options.Append(entry).ToArray();
+                    _arrayOfCities = _arrayOfCities.Append(entry).ToArray();
                 }
 
                 reader.Close();
             }
 
             // Инструкция и запуск цикла выполнения
-            Console.WriteLine("Usage: \tType in a city name to get weather data \n"+
-                                "\tType \"options\" to see the city list \n"+
-                                "\tType \"quit\" to, well, quit \n"+
-                                "\tType some gibberish to do nothing \n");
+            Console.WriteLine("Usage: \tType in a city name to get weather data \n" +
+                              "\tType \"options\" to see the city list \n" +
+                              "\tType \"quit\" to, well, quit \n" +
+                              "\tType some gibberish to do nothing \n");
             ConsoleRun();
-
         }
-    
-    }       
+    }
 }
