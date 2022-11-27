@@ -1,500 +1,500 @@
-AACG : 1.51 $
-AACI : 9.87 $
-AACIW : 0.03 $
-AADI : 15.79 $
-AAL : 15.50 $
-AAME : 2.87 $
 AAOI : 3.02 $
-AAON : 60.01 $
-AAPL : 156.98 $
-AATC : 5.68 $
 AAWW : 83.24 $
-ABCB : 46.53 $
-ABCL : 10.28 $
 ABCM : 16.46 $
-ABEO : 5.67 $
-ABGI : 9.82 $
-ABIO : 2.21 $
 ABMD : 288.49 $
-ABNB : 130.98 $
+ABCL : 10.28 $
+ABEO : 5.67 $
+AATC : 5.68 $
 ABOS : 5.47 $
-ABSI : 5.37 $
-ABST : 9.21 $
-ABTX : 41.84 $
 ABUS : 2.69 $
-ABVC : 1.78 $
+AACIW : 0.03 $
 ACABU : 10.03 $
-ACAD : 19.07 $
-ACAH : 9.81 $
+ABIO : 2.21 $
+ABNB : 130.98 $
+ABTX : 41.84 $
+ABVC : 1.78 $
+ABGI : 9.82 $
 ACAXU : 10.04 $
+ACAH : 9.81 $
 ACB : 2.76 $
-ACBA : 10.28 $
 ACBAU : 10.48 $
+ABST : 9.21 $
+ACAD : 19.07 $
+ACBA : 10.28 $
 ACBAW : 0.01 $
-ACBI : 30.08 $
-ACCD : 13.23 $
-ACER : 1.85 $
-ACET : 14.72 $
 ACEV : 10.09 $
+ACCD : 13.23 $
 ACEVU : 10.20 $
-ACEVW : 0.13 $
+ACET : 14.72 $
+ACBI : 30.08 $
 ACGL : 46.49 $
+ABSI : 5.37 $
+ACER : 1.85 $
 ACGLN : 20.58 $
-ACGLO : 23.23 $
-ACHC : 69.56 $
-ACHL : 2.93 $
-ACHV : 5.75 $
-ACIU : 3.58 $
-ACIW : 27.52 $
 ACKIT : can not get info!
+ABCB : 46.53 $
+ACHL : 2.93 $
+ACHC : 69.56 $
+ACGLO : 23.23 $
+ACHV : 5.75 $
 ACKIU : can not get info!
+ACIW : 27.52 $
+AAPL : 156.98 $
 ACKIW : can not get info!
 ACLS : 63.11 $
+ACIU : 3.58 $
 ACMR : 17.69 $
-ACNB : 32.93 $
-ACOR : 1.12 $
+AACG : 1.51 $
 ACQR : 9.82 $
 ACQRU : 9.88 $
-ACQRW : 0.05 $
-ACRS : 14.47 $
 ACRX : 6.01 $
-ACST : 0.94 $
-ACT : 22.70 $
 ACTD : can not get info!
+ACRS : 14.47 $
+ACST : 0.94 $
 ACTDU : can not get info!
+ACT : 22.70 $
 ACTDW : can not get info!
-ACTG : 4.39 $
+ACQRW : 0.05 $
+ACNB : 32.93 $
+ACEVW : 0.13 $
 ACVA : 10.99 $
-ACXP : 3.59 $
+ACTG : 4.39 $
+AAME : can not get info!
+AACI : can not get info!
+AAL : can not get info!
+AAON : can not get info!
+AADI : can not get info!
 ADAG : 3.61 $
 ADAL : 9.97 $
-ADALU : 10.10 $
 ADAP : 2.14 $
-ADBE : 418.82 $
-ADER : 9.87 $
-ADERU : 10.05 $
-ADERW : 0.29 $
-ADES : 5.01 $
+ADALU : 10.10 $
+ACXP : 3.59 $
+ACOR : 1.12 $
 ADGI : can not get info!
-ADI : 158.25 $
+ADERW : 0.29 $
+ADERU : 10.05 $
 ADIL : 1.36 $
+ADES : 5.01 $
+ADER : 9.87 $
 ADMA : 2.01 $
-ADMP : 0.44 $
 ADN : 3.17 $
-ADNWW : 0.23 $
-ADOC : 10.24 $
+ADMP : 0.44 $
 ADOCR : 0.05 $
+ADOC : 10.24 $
+ADNWW : 0.23 $
+ADBE : 418.82 $
 ADOCW : 0.01 $
-ADP : 225.85 $
-ADPT : 12.02 $
-ADSE : 7.32 $
 ADSEW : 0.50 $
-ADSK : 211.79 $
-ADTH : 5.36 $
+ADI : 158.25 $
+ADSE : 7.32 $
+ADPT : 12.02 $
 ADTHW : 0.12 $
-ADTN : 19.94 $
-ADTX : 14.43 $
 ADUS : 88.09 $
+ADTH : 5.36 $
 ADV : 4.93 $
 ADVM : 1.24 $
-ADXN : 3.28 $
+ADTX : 14.43 $
 AEAC : 9.85 $
+ADXN : 3.28 $
 AEACU : 9.94 $
-AEAE : 9.93 $
+ADTN : 19.94 $
+AEI : 0.37 $
+ADSK : 211.79 $
 AEHAU : 10.26 $
 AEHL : 1.05 $
-AEHR : 13.17 $
-AEI : 0.37 $
-AEIS : 82.62 $
-AEMD : 1.20 $
-AEP : 93.60 $
 AEPPL : can not get info!
-AEPPZ : 53.28 $
-AERC : 6.10 $
+ADP : 225.85 $
+AEMD : 1.20 $
 AERI : 9.65 $
-AESE : 1.54 $
 AEY : 1.52 $
-AEYE : 5.67 $
-AEZS : 6.48 $
-AFAC : 10.02 $
+AERC : 6.10 $
+AEHR : 13.17 $
 AFACW : 0.01 $
-AFAQ : 9.78 $
-AFBI : 14.93 $
-AFCG : 17.87 $
-AFIB : 1.46 $
-AFIN : can not get info!
+AEZS : 6.48 $
+AEIS : 82.62 $
+AESE : 1.54 $
 AFINO : can not get info!
+AEYE : 5.67 $
 AFINP : can not get info!
-AFMD : 3.44 $
-AFRM : 38.59 $
-AFYA : 12.98 $
+AFBI : 14.93 $
+AFAQ : 9.78 $
+AFIN : can not get info!
+AFAC : 10.02 $
 AGBAR : 0.54 $
 AGBAW : 0.04 $
-AGEN : 2.48 $
+AGILW : 0.41 $
+AGGRW : 0.01 $
+AGRIW : 0.23 $
+AINV : can not get info!
+ALACR : can not get info!
+ALACW : can not get info!
+ALAC : can not get info!
+ALFIW : 0.04 $
+AKUS : 5.75 $
+ALGN : 350.07 $
+ALEC : 12.35 $
+ALDX : 4.69 $
+AFMD : 3.44 $
+ALNA : can not get info!
+AFYA : 12.98 $
+AGGR : 9.81 $
+AEPPZ : 53.28 $
+AFRM : 38.59 $
+AFIB : 1.46 $
+AEAE : 9.93 $
+ALOR : 10.00 $
+AGLE : 1.82 $
 AGFS : 1.86 $
 AGFY : 37.22 $
-AGGR : 9.81 $
-AGGRU : 9.88 $
-AGGRW : 0.01 $
+ALORW : 0.03 $
+AMCIW : 0.25 $
 AGIL : 4.89 $
-AGILW : 0.41 $
-AGIO : 27.10 $
-AGLE : 1.82 $
+ALKT : 14.69 $
 AGMH : 2.21 $
-AGNC : 12.09 $
-AGNCM : 22.50 $
-AGNCN : 24.16 $
-AGNCO : 22.79 $
-AGNCP : 21.99 $
-AGRI : 1.94 $
-AGRIW : 0.23 $
-AGRX : 6.12 $
-AGTC : 1.01 $
-AGYS : 45.35 $
-AHCO : 18.86 $
+AGIO : 27.10 $
 AHG : 1.22 $
+AGNCP : 21.99 $
+AFCG : 17.87 $
 AHI : 1.42 $
-AHPA : 10.00 $
 AHPAU : 10.20 $
-AHPI : 2.60 $
+AGTC : 1.01 $
+AGEN : 2.48 $
+ALGT : 131.21 $
+AHCO : 18.86 $
+ALPA : 9.71 $
+ALACU : can not get info!
+ALTM : can not get info!
 AIH : 2.09 $
+AHPI : 2.60 $
+ANAT : can not get info!
+ALOT : 12.89 $
+AMED : 126.63 $
 AIHS : 1.79 $
 AIKI : 6.82 $
-AIMC : 42.12 $
-AINV : can not get info!
-AIP : 11.01 $
-AIRG : 8.54 $
-AIRS : 9.71 $
-AIRT : 19.91 $
-AIRTP : 22.93 $
-AKAM : 100.44 $
-AKBA : 1.00 $
-AKIC : 9.87 $
-AKICW : 0.01 $
-AKRO : 18.86 $
-AKTS : 4.66 $
-AKTX : 1.07 $
-AKU : 1.20 $
-AKUS : 5.75 $
-AKYA : 11.77 $
-ALAC : can not get info!
-ALACR : can not get info!
-ALACU : can not get info!
-ALACW : can not get info!
-ALBO : 24.13 $
-ALCO : 34.97 $
-ALDX : 4.69 $
-ALEC : 12.35 $
-ALF : 1.37 $
-ALFIW : 0.04 $
-ALGM : 25.71 $
-ALGN : 350.07 $
-ALGS : 2.77 $
-ALGT : 131.21 $
-ALHC : 11.63 $
-ALIM : 5.28 $
-ALJJ : 1.95 $
-ALKS : 25.37 $
-ALKT : 14.69 $
-ALLK : 10.02 $
-ALLO : 11.19 $
-ALLR : 2.79 $
-ALLT : 6.55 $
-ALNA : can not get info!
-ALNY : 168.25 $
-ALOR : 10.00 $
-ALORW : 0.03 $
-ALOT : 12.89 $
-ALPA : 9.71 $
-ALPN : 8.42 $
-ALPP : 1.06 $
-ALR : 1.76 $
-ALRM : 66.44 $
-ALRN : 7.10 $
-ALRS : 25.55 $
-ALSA : 9.96 $
-ALSAU : 10.13 $
-ALT : 9.47 $
-ALTM : can not get info!
-ALTO : 4.74 $
-ALTR : 56.24 $
-ALTU : 9.93 $
-ALTUU : 10.03 $
-ALTUW : 0.19 $
-ALVR : 7.59 $
-ALXO : 13.93 $
-ALYA : 2.29 $
-ALZN : 1.21 $
-AMAL : 19.86 $
-AMAO : 10.11 $
-AMAOU : 10.16 $
-AMAT : 113.22 $
-AMBA : 97.00 $
-AMCI : 9.77 $
-AMCIW : 0.25 $
-AMCX : 32.13 $
-AMD : 96.96 $
-AMED : 126.63 $
-AMEH : 45.65 $
-AMGN : 239.54 $
-AMKR : 20.52 $
-AMLX : 21.87 $
-AMNB : 35.85 $
-AMOT : 30.49 $
-AMPG : 2.60 $
-AMPGW : 0.78 $
-AMPH : 30.41 $
-AMPL : 23.27 $
-AMRK : 32.25 $
-AMRN : 2.17 $
-AMRS : 3.38 $
-AMSC : 6.50 $
-AMSF : 49.95 $
-AMST : 0.58 $
-AMSWA : 18.69 $
-AMTB : 29.37 $
-AMTI : 4.99 $
-AMTX : 9.04 $
-AMWD : 51.58 $
-AMYT : 8.00 $
-AMZN : 132.88 $
-ANAB : 26.08 $
-ANAT : can not get info!
+AGYS : 45.35 $
 ANDE : 38.36 $
-ANEB : 4.55 $
-ANGI : 5.31 $
-ANGN : 1.61 $
-ANGO : 20.83 $
-ANIK : 26.60 $
-ANIP : 34.56 $
-ANIX : 3.56 $
-ANNX : 5.75 $
-ANPC : 9.52 $
-ANSS : 282.12 $
-ANTE : 1.28 $
-ANY : 1.43 $
-ANZU : 9.80 $
-ANZUU : 9.88 $
-ANZUW : 0.03 $
-AOGOU : 10.03 $
-AOSL : 41.94 $
-AOUT : 12.25 $
+ALCO : 34.97 $
+ALBO : 24.13 $
+ALLK : 10.02 $
+ALLR : 2.79 $
+ALNY : 168.25 $
+APR : can not get info!
+APXIU : can not get info!
+APXIW : can not get info!
+ALSA : 9.96 $
+APWC : can not get info!
+APXI : can not get info!
+AQB : can not get info!
+APYX : can not get info!
+APTX : can not get info!
+APTMU : can not get info!
+ALYA : 2.29 $
+AQMS : can not get info!
+AMCI : 9.77 $
+AQST : can not get info!
+ALXO : 13.93 $
+ARBG : can not get info!
+ARBK : can not get info!
+ALTR : 56.24 $
+ARCE : can not get info!
+ARBKL : can not get info!
+ARBEW : can not get info!
+AMPL : 23.27 $
+ARCC : can not get info!
+ARAV : can not get info!
+ARDS : can not get info!
+AREC : can not get info!
+ARAY : can not get info!
+ARDX : can not get info!
+AREB : can not get info!
+AMPGW : can not get info!
+ARCK : can not get info!
+ARQT : can not get info!
+ARGUU : can not get info!
+API : can not get info!
+ARQQW : can not get info!
+AMEH : 45.65 $
+AMKR : can not get info!
+ARGX : can not get info!
+APCXW : can not get info!
+ARBE : can not get info!
+AMTI : can not get info!
+AMZN : can not get info!
+ARTA : can not get info!
+ARYD : can not get info!
+ARVL : can not get info!
+ARTNA : can not get info!
+ARWR : can not get info!
+ASAX : can not get info!
+ARNA : can not get info!
+ARTL : can not get info!
+ARKOW : can not get info!
+ARKO : can not get info!
+ARVN : can not get info!
+AROW : can not get info!
+ARKR : can not get info!
+ARLP : can not get info!
+ARQQ : can not get info!
+ARTAU : can not get info!
+ASND : can not get info!
+ASO : can not get info!
+ARRW : can not get info!
+AMWD : 51.58 $
+ASML : can not get info!
+ARTLW : can not get info!
+AMNB : 35.85 $
+ARRY : can not get info!
+AMSWA : 18.69 $
+ARIZ : can not get info!
+AMOT : 30.49 $
 APA : 37.15 $
+ARTAW : can not get info!
+ARCKW : can not get info!
+ARTE : can not get info!
+ARCB : can not get info!
+APOG : 43.34 $
+ARCT : can not get info!
+ASLE : can not get info!
+ATER : can not get info!
+ASLN : can not get info!
+ATHA : can not get info!
+ASMB : can not get info!
+ATLCL : can not get info!
+ATHX : can not get info!
+ATEX : can not get info!
+ARYE : can not get info!
+ARGU : can not get info!
+ARHS : can not get info!
+ASAXW : can not get info!
+ARTW : can not get info!
+ATIF : can not get info!
+ATVCW : can not get info!
+ASPA : can not get info!
+ATVC : can not get info!
+ATRS : can not get info!
+ARIZR : can not get info!
+ATOM : can not get info!
+ATLO : can not get info!
+ATRA : can not get info!
+ATCOL : can not get info!
+ATAI : can not get info!
+ASPU : can not get info!
+ATCX : can not get info!
+ATAX : can not get info!
+ATRO : can not get info!
+ASPCW : can not get info!
+ATSPT : can not get info!
+ASRT : can not get info!
+ATLC : can not get info!
+ASTC : can not get info!
+ATRC : can not get info!
+ATNI : can not get info!
+ATHE : can not get info!
+ASTR : can not get info!
+ASPAU : can not get info!
+ASTLW : can not get info!
+ATSG : can not get info!
+ASUR : can not get info!
+ATEC : can not get info!
+ASPCU : can not get info!
+ASYS : can not get info!
+ATRI : can not get info!
+ASTSW : can not get info!
+ASPS : can not get info!
+ATVI : can not get info!
+ATNF : can not get info!
+ATXI : can not get info!
+ASRV : can not get info!
+AKU : 1.20 $
+AUB : can not get info!
+AURA : can not get info!
+AUID : can not get info!
+AUPH : can not get info!
+ATY : can not get info!
+AUROW : can not get info!
+AURC : can not get info!
+AUUD : can not get info!
+AUGX : can not get info!
+AUR : can not get info!
+AURCU : can not get info!
+AUTL : can not get info!
+AUTO : can not get info!
+AUVI : can not get info!
+AUVIP : can not get info!
+AVDX : can not get info!
+AVGR : can not get info!
+AVDL : can not get info!
+AVEO : can not get info!
+AVAV : can not get info!
+AVCTW : can not get info!
+AVAH : can not get info!
+AVHIU : can not get info!
+AVCT : can not get info!
+AVGOP : can not get info!
+AVID : can not get info!
+ASTL : can not get info!
+ATOS : can not get info!
+ATNX : can not get info!
+AVCO : can not get info!
+AVIR : can not get info!
+AVPTW : can not get info!
+AVPT : can not get info!
+AVRO : can not get info!
+AVO : can not get info!
+ATXS : can not get info!
+AUDC : can not get info!
+AUBN : can not get info!
+AUBAP : can not get info!
+AVTE : can not get info!
+AVXL : can not get info!
+AVTX : can not get info!
+AVAC : can not get info!
+AVGO : can not get info!
+AWH : can not get info!
+AVHI : can not get info!
+AVNW : can not get info!
+AWRE : can not get info!
+AXNX : can not get info!
+AZ : can not get info!
+AXON : can not get info!
+AYTU : can not get info!
+AXSM : can not get info!
+AXTI : can not get info!
+AYRO : can not get info!
+AYLA : can not get info!
+AY : can not get info!
+AZN : can not get info!
+AZPN : can not get info!
+AZTA : can not get info!
+AXGN : can not get info!
+AVT : can not get info!
+BAFN : can not get info!
+BAND : can not get info!
+BBBY : can not get info!
+BATRA : can not get info!
+BANF : can not get info!
+AZYO : can not get info!
+BAOS : can not get info!
+BBCP : can not get info!
+BANX : can not get info!
+BANR : can not get info!
+BBGI : can not get info!
+BBQ : can not get info!
+BBLGW : can not get info!
+BASE : can not get info!
+BBIO : can not get info!
+BBLG : can not get info!
+BATRK : can not get info!
+BBI : can not get info!
+ARIZW : can not get info!
+ASPC : can not get info!
+AXLA : can not get info!
+AXDX : can not get info!
+ALPP : 1.06 $
+BBSI : can not get info!
+ATLCP : can not get info!
+ASTS : can not get info!
+ATNFW : can not get info!
+ASTE : can not get info!
+BBIG : can not get info!
+ALGM : can not get info!
+ALGS : can not get info!
+APPHW : 0.16 $
+ALIM : can not get info!
+ALHC : can not get info!
+ALJJ : can not get info!
+AKRO : 18.86 $
+AKICW : 0.01 $
+AIRG : 8.54 $
+ANZUW : 0.03 $
+APTO : 1.00 $
+AIP : 11.01 $
+AIRT : 19.91 $
+AMAO : 10.11 $
+AKBA : 1.00 $
+ALZN : 1.21 $
+ALLT : 6.55 $
+ALTUW : 0.19 $
+ALTO : 4.74 $
+APPN : 51.03 $
+AMSF : 49.95 $
+AMTB : 29.37 $
+APPF : 107.37 $
+AMAL : 19.86 $
+APM : 1.32 $
+AKIC : 9.87 $
+APLT : 2.38 $
+ANAB : 26.08 $
+ANGN : 1.61 $
+AIRTP : 22.93 $
+AIMC : 42.12 $
+APVO : 4.69 $
+AIRS : 9.71 $
+ALR : 1.76 $
+ANGO : 20.83 $
+AMD : 96.96 $
+AKTS : 4.66 $
+ALTUU : 10.03 $
+AMST : 0.58 $
+AKTX : 1.07 $
+AHPA : 10.00 $
+AMBA : 97.00 $
 APAC : 9.99 $
+ALF : 1.37 $
+ANIP : 34.56 $
+AMTX : 9.04 $
+AKAM : 100.44 $
+AMGN : 239.54 $
+ALLO : 11.19 $
+AMCX : 32.13 $
+ALPN : 8.42 $
+AMAT : 113.22 $
+ALRM : 66.44 $
+ALVR : 7.59 $
+AMRS : 3.38 $
+ANY : 1.43 $
+ANTE : 1.28 $
+APPH : 3.37 $
+ALRN : 7.10 $
+ALT : 9.47 $
+ANZUU : 9.88 $
+AMRK : 32.25 $
+ANZU : 9.80 $
+AMPH : 30.41 $
+ANEB : 4.55 $
+ANNX : 5.75 $
+AMYT : 8.00 $
+AMAOU : 10.16 $
+AMLX : 21.87 $
+AGNCN : 24.16 $
+AGNCO : 22.79 $
+AGRI : 1.94 $
+AGNC : 12.09 $
+APRE : 1.42 $
+AGNCM : 22.50 $
+AGGRU : 9.88 $
+AGRX : 6.12 $
 APCX : 1.06 $
-APCXW : 0.08 $
+APPS : 29.84 $
+APP : 43.88 $
+APLS : 49.23 $
 APDN : 2.35 $
 APEI : 16.33 $
+AEP : 93.60 $
 APEN : 5.70 $
-API : 7.75 $
-APLS : 49.23 $
-APLT : 2.38 $
-APM : 1.32 $
-APOG : 43.34 $
-APP : 43.88 $
-APPF : 107.37 $
-APPH : 3.37 $
-APPHW : 0.16 $
-APPN : 51.03 $
-APPS : 29.84 $
-APR : can not get info!
-APRE : 1.42 $
-APTMU : 9.81 $
-APTO : 1.00 $
-APTX : 1.33 $
-APVO : 4.69 $
-APWC : 1.53 $
-APXI : 10.03 $
-APXIU : 10.07 $
-APXIW : 0.03 $
-APYX : 7.23 $
-AQB : 1.45 $
-AQMS : 0.99 $
-AQST : 1.93 $
-ARAV : 1.49 $
-ARAY : 2.88 $
-ARBE : 6.76 $
-ARBEW : 0.31 $
-ARBG : 9.87 $
-ARBK : 6.73 $
-ARBKL : 18.81 $
-ARCB : 82.49 $
-ARCC : 19.83 $
-ARCE : 16.17 $
-ARCK : 10.07 $
-ARCKW : 0.02 $
-ARCT : 21.37 $
-ARDS : 1.50 $
-ARDX : 0.97 $
-AREB : 0.90 $
-AREC : 2.03 $
-ARGU : 9.99 $
-ARGUU : 10.11 $
-ARGX : 330.42 $
-ARHS : 7.65 $
-ARIZ : 9.86 $
-ARIZR : 0.07 $
-ARIZW : 0.02 $
-ARKO : 8.89 $
-ARKOW : 1.94 $
-ARKR : 18.14 $
-ARLP : 18.22 $
-ARNA : can not get info!
-AROW : 32.22 $
-ARQQ : 10.65 $
-ARQQW : 0.61 $
-ARQT : 19.21 $
-ARRW : 9.79 $
-ARRY : 13.76 $
-ARTA : can not get info!
-ARTAU : can not get info!
-ARTAW : can not get info!
-ARTE : 9.94 $
-ARTL : 5.28 $
-ARTLW : 0.10 $
-ARTNA : 48.49 $
-ARTW : 2.96 $
-ARVL : 2.73 $
-ARVN : 54.99 $
-ARWR : 42.92 $
-ARYD : 9.86 $
-ARYE : 9.75 $
-ASAX : 9.83 $
-ASAXW : 0.02 $
-ASLE : 16.50 $
-ASLN : 0.72 $
-ASMB : 1.86 $
-ASML : 577.04 $
-ASND : 105.49 $
-ASO : 39.82 $
-ASPA : 9.95 $
-ASPAU : 10.23 $
-ASPC : can not get info!
-ASPCU : can not get info!
-ASPCW : can not get info!
-ASPS : 11.41 $
-ASPU : 1.16 $
-ASRT : 2.57 $
-ASRV : 3.96 $
-ASTC : 0.54 $
-ASTE : 46.70 $
-ASTL : 8.99 $
-ASTLW : 1.24 $
-ASTR : 2.91 $
-ASTS : 7.75 $
-ASTSW : 2.40 $
-ASUR : 6.25 $
-ASYS : 9.07 $
-ATAI : 4.71 $
-ATAX : 18.60 $
-ATCOL : 25.35 $
-ATCX : 8.48 $
-ATEC : 9.45 $
-ATER : 2.81 $
-ATEX : 46.75 $
-ATHA : 7.36 $
-ATHE : 0.66 $
-ATHX : 11.38 $
-ATIF : 2.57 $
-ATLC : 43.07 $
-ATLCL : 23.92 $
-ATLCP : 23.50 $
-ATLO : 23.17 $
-ATNF : 1.80 $
-ATNFW : 0.06 $
-ATNI : 41.32 $
-ATNX : 0.68 $
-ATOM : 12.58 $
-ATOS : 1.14 $
-ATRA : 8.03 $
-ATRC : 51.61 $
-ATRI : 647.15 $
-ATRO : 10.67 $
-ATRS : can not get info!
-ATSG : 28.91 $
-ATSPT : can not get info!
-ATVC : can not get info!
-ATVCW : can not get info!
-ATVI : 75.43 $
-ATXI : 6.66 $
-ATXS : 6.15 $
-ATY : 2.51 $
-AUB : 35.39 $
-AUBAP : 25.69 $
-AUBN : 29.15 $
-AUDC : 24.71 $
-AUGX : 2.17 $
-AUID : 4.62 $
-AUPH : 11.57 $
-AUR : 4.34 $
-AURA : 15.96 $
-AURC : 9.86 $
-AURCU : 9.97 $
-AUROW : 0.22 $
-AUTL : 3.46 $
-AUTO : can not get info!
-AUUD : 1.44 $
-AUVI : 1.82 $
-AUVIP : 24.74 $
-AVAC : 9.97 $
-AVAH : 3.36 $
-AVAV : 80.53 $
-AVCO : 0.62 $
-AVCT : 9.70 $
-AVCTW : 0.03 $
-AVDL : 5.79 $
-AVDX : 9.23 $
-AVEO : 6.65 $
-AVGO : 544.30 $
-AVGOP : 1,744.78 $
-AVGR : 3.42 $
-AVHI : 9.97 $
-AVHIU : 10.10 $
-AVID : 28.29 $
-AVIR : 6.86 $
-AVNW : 29.32 $
-AVO : 14.49 $
-AVPT : 5.07 $
-AVPTW : 0.77 $
-AVRO : 1.35 $
-AVT : 41.69 $
-AVTE : 14.62 $
-AVTX : 7.88 $
-AVXL : 11.49 $
-AWH : 0.85 $
-AWRE : 2.51 $
-AXDX : 1.97 $
-AXGN : 9.34 $
-AXLA : 1.92 $
-AXNX : 59.31 $
-AXON : 125.32 $
-AXSM : 38.53 $
-AXTI : 6.79 $
-AY : 32.25 $
-AYLA : 3.13 $
-AYRO : 1.05 $
-AYTU : 0.74 $
-AZ : 4.37 $
-AZN : 61.47 $
-AZPN : 183.62 $
-AZTA : 71.18 $
-AZYO : 6.37 $
-BAFN : 19.54 $
-BAND : 30.36 $
-BANF : 87.60 $
-BANR : 60.19 $
-BANX : 19.59 $
-BAOS : 0.90 $
-BASE : 17.11 $
-BATRA : 27.74 $
-BATRK : 26.87 $
-BBBY : 11.30 $
-BBCP : 6.79 $
-BBGI : 1.49 $
-BBI : can not get info!
-BBIG : 1.44 $
-BBIO : 11.84 $
-BBLG : 1.79 $
-BBLGW : 0.29 $
-BBQ : 14.45 $
-BBSI : 74.97 $
+AMRN : 2.17 $
+AMSC : 6.50 $
+ANIK : 26.60 $
+AOUT : 12.25 $
+AOSL : 41.94 $
+AMPG : 2.60 $
+ANGI : 5.31 $
+ALKS : 25.37 $
+AKYA : 11.77 $
+ANIX : 3.56 $
+ALTU : 9.93 $
+ALSAU : can not get info!
+ALRS : 25.55 $
+ANSS : 282.12 $
+AOGOU : 10.03 $
+ANPC : 9.52 $

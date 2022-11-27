@@ -92,10 +92,11 @@ static class Program
                 statusbar((i*100/500)+1);
                 i++;
                 var tiker = inputReader.ReadLineAsync().GetAwaiter().GetResult();
-                await AveragePriceToFile(outputWriter, tiker);
+                AveragePriceToFile(outputWriter, tiker);
                 countTasks++;
             }
             while (countTasks != 0) {}
+            
             Console.WriteLine("\nГотово!");
         }
     }
